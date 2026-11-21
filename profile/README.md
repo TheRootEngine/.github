@@ -1,6 +1,9 @@
 <div align="center">
 
-# 🌱 RootEngine
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRootEngine/.github/main/profile/assets/rootengine-logo-horizontal-on-dark.svg">
+  <img alt="RootEngine" src="https://raw.githubusercontent.com/TheRootEngine/.github/main/profile/assets/rootengine-logo-horizontal.svg" width="460">
+</picture>
 
 **A stylized 3D & 2D game engine in C++, built for humans and AI agents.**
 
